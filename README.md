@@ -14,7 +14,6 @@ This project showcases my work, skills, and contact info, designed to highlight 
 - 🌐 **Scroll spy** dot nav to track current section
 - 📂 **Project cards** with hover effects and dynamic layout
 - 📝 **About** section with personal story
-- 📬 **Contact form** powered by Netlify Forms
 
 ---
 
