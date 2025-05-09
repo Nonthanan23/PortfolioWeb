@@ -1,16 +1,16 @@
 export default function Contact() {
   return (
-    <section>
-      <h1 className="text-3xl font-bold mb-4">Contact</h1>
-      <p className="mb-4">Want to work together or just say hi? Reach out below.</p>
-      <form className="max-w-md space-y-4">
-        <input type="text" placeholder="Your Name" className="w-full border p-2 rounded" />
-        <input type="email" placeholder="Your Email" className="w-full border p-2 rounded" />
-        <textarea placeholder="Your Message" rows="5" className="w-full border p-2 rounded" />
-        <button type="submit" className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">
-          Send
-        </button>
-      </form>
-    </section>
+    <div className="max-w-xl mx-auto px-6 text-center" data-aos="fade-up">
+      <h2 className="text-3xl font-bold text-white mb-6">Get in Touch</h2>
+      <p className="text-slate-400 mb-8 leading-relaxed">
+        I’m always open to new opportunities, collaboration, or just saying hi. If you’d like to connect, feel free to drop a message.
+      </p>
+      <a
+        href="nonthananwanpen@gmail.com"
+        className="inline-block px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition"
+      >
+        Say Hello
+      </a>
+    </div>
   )
 }

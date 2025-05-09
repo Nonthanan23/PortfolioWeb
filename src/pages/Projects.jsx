@@ -6,19 +6,19 @@ const projects = [
     title: 'Portfolio Website',
     description: 'This site — designed with React, Tailwind, and deployed on Netlify.',
     tech: ['React', 'TailwindCSS', 'Netlify'],
-    link: 'https://github.com/YOUR_USERNAME/portfolio'
+    link: 'https://github.com/Nonthanan23/PortfolioWeb.git'
   },
   {
-    title: 'Task Tracker',
+    title: 'Connect Four',
     description: 'A simple full-stack task manager with drag-and-drop UI.',
-    tech: ['React', 'Node.js', 'MongoDB'],
-    link: 'https://github.com/YOUR_USERNAME/task-tracker'
+    tech: ['React', 'Typescript'],
+    link: 'https://github.com/Nonthanan23/Connect4ts.git'
   },
   {
-    title: 'Weather App',
+    title: 'Memory Game',
     description: 'Uses OpenWeather API to fetch live weather based on geolocation.',
-    tech: ['React', 'API', 'CSS'],
-    link: 'https://github.com/YOUR_USERNAME/weather-app'
+    tech: ['Java', 'HPML', 'CSS'],
+    link: 'https://github.com/Nonthanan23/MemoryGame_fe23_Java1.git'
   }
 ]
 
