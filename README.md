@@ -22,7 +22,7 @@ This project showcases my work, skills, and contact info, designed to highlight 
 - React (Vite)
 - TailwindCSS
 - JavaScript / TypeScript
-- Netlify (Hosting + Forms)
+- Netlify (Hosting)
 
 ---
 
